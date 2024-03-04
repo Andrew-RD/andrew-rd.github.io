@@ -1,8 +1,8 @@
 ---
 layout: post
-title: a post with math
-date: 2015-10-20 11:12:00-0400
-description: an example of a blog post with some math
+title: ¡La divina proporcion aurea!
+date: 2024-03-01 00:12:00-0400
+description: ¿Has escuchado hablar de la proporcion aurea?
 tags: formatting math
 categories: sample-posts
 related_posts: false
