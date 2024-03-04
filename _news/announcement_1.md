@@ -1,8 +1,13 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
-inline: true
+title: ¡Blog al aire!
+date: 2024-2-29 23:35:00-0400
+inline: false
 related_posts: false
 ---
 
-A simple inline announcement.
+¡Andrew ha creado su sitio web!.
+
+---
+
+Esto es impresionante.
